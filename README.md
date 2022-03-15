@@ -25,3 +25,8 @@ Maka akan menampilkan gambar seperti berikut
 
 
 ![screen 4](screen4.png)
+
+
+Maka akan menampilkan gambar seperti berikut
+
+![screen 5](screen5.png)
