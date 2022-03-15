@@ -1,8 +1,17 @@
+NAMA:MUHAMMAD ILHAM MUBAROK
+NIM:312010278
+KELAS:TI.20.B2
+
+
 # LAB1WEB1
 
 Membuat Halaman Web Dasar HTML
 
-1.Memasukkan Title pada bagian HTML
+1.Memasukan title pada bagian HTML
+
+![screen 3](screen3.png)
+
+2.masuk ke visual code beri judul 
 
 
 ![screen 2](screen2.png)
