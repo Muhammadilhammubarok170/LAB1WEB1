@@ -6,3 +6,8 @@ Membuat Halaman Web Dasar HTML
 
 
 ![screen 1](screen1.png)
+
+Maka akan menampilkan gambar seperti berikut
+
+
+![screen 2](screen2.png)
