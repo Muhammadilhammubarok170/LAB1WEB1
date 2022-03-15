@@ -29,6 +29,6 @@ Maka akan menampilkan gambar seperti berikut
 
 Maka akan menampilkan gambar seperti berikut
 
-![screen 5](screen5.png)
 
-.
+
+![screen 6](screen6.png)
